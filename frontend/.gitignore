@@ -1,0 +1,29 @@
+# Environment
+.env
+.env.*
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+
+# Databases
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# Docker
+*.pid
